@@ -1,4 +1,3 @@
-```markdown
 # SQL Joins Practice
 
 ## Overview
